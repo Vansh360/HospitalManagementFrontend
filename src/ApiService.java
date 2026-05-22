@@ -76,8 +76,8 @@ public class ApiService {
         try {
 
             URL url =
-                    new URL("http://localhost:8081/patients");
-
+                    new URL("http://13.51.166.139:8081/patients");
+// http://localhost:8081/patients
             HttpURLConnection con =
                     (HttpURLConnection) url.openConnection();
 
