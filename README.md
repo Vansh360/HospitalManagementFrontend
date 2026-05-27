@@ -34,7 +34,8 @@ https://hospitalmanagementbackend-959x.onrender.com/patients
 
 # Screenshots
 
-(Add screenshots here)
+<img width="1730" height="1079" alt="image" src="https://github.com/user-attachments/assets/86bf3edf-945e-4c8f-8655-e4c8100593dd" />
+
 
 ---
 
